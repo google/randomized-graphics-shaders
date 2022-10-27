@@ -1,0 +1,94 @@
+{
+ "fact": [
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1065353216
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 0,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      0
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1077936128
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 0,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1073741824
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 0,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      2
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1084227584
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 1,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      0
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1077936128
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 1,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1065353216
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 1,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      2
+     ]
+    }
+   }
+  }
+ ]
+}

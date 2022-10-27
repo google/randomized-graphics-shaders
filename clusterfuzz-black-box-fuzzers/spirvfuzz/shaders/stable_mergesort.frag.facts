@@ -1,0 +1,34 @@
+{
+ "fact": [
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     0
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 0,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      0
+     ]
+    }
+   }
+  },
+  {
+   "constantUniformFact": {
+    "constantWord": [
+     1065353216
+    ],
+    "uniformBufferElementDescriptor": {
+     "binding": 0,
+     "descriptorSet": 0,
+     "index": [
+      0,
+      1
+     ]
+    }
+   }
+  }
+ ]
+}

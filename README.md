@@ -10,4 +10,8 @@ generate endless examples is that it is convenient to be able to pull a
 moderate-sized set of generated examples into a fuzzing project, rather than
 going to the effort of hooking the generation tools up to the fuzzing project.
 
+The repo also hosts a number of scripts for deploying black-box fuzzers that
+produce WGSL shaders on ClusterFuzz - see the `clusterfuzz-black-box-fuzzers`
+README for details.
+
 This is not an officially supported Google product.
